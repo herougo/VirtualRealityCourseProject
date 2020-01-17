@@ -7,7 +7,7 @@
 </img>
 </p>
 
-This repository contains the code for the "Come Good Rain" dramatic performance as part of the CS 2547 (Topics in Interactive Computing: Graphics, Interaction and Perception in Augmented and Virtual Reality AR/VR) final project.
+This repository contains the code for the "Come Good Rain" dramatic performance as part of the CSC 2547 (Topics in Interactive Computing: Graphics, Interaction and Perception in Augmented and Virtual Reality AR/VR) final project.
 
 For our dramatic performance, we chose the play, “Come Good Rain,” by George Seremba. This work, based on a true story, shows the experiences of George Seremba, a man who lived in Ugunda during the oppressive regimes of Milton Obote and Idi Amin, and eventually left the country. When he comes back to his country, he is arrested and tortured. He is eventually shot and left for dead in Uganda's Namanve forest. However, it starts to rain, which cleans his wounds, and he survives and escapes to Canada.
 
